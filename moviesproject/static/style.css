@@ -1,0 +1,16 @@
+body{
+background-color:#c9bfaf;
+}
+.card{
+  box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);
+  margin-top:50px;
+}
+.card-body{
+text-align:center;
+}
+.mo{
+margin-top:10px;
+}
+.a1{
+display:inline;
+}
